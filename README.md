@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martproz
 - 👀 I’m interested in keep learning.
-- 🌱 I’m currently learning CSS.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
